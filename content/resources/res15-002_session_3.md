@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Image of the Session 3 slide deck title page.
+parent_uid: 219fe568-e41d-dc10-9cf5-bce77c008a10
 resourcetype: Image
 title: Session 3 Title Slate
 uid: ed32ebd8-6612-ff03-198a-d321fbc0c49e

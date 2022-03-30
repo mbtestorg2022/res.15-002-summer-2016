@@ -3,6 +3,7 @@ content_type: resource
 description: Slide deck for session 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/e3d14fc3d22bc05a0a1799df0fd1eb56_MITRES15-002SUM16_Session_1.pdf
 file_type: application/pdf
+parent_uid: 6712229f-d71f-3221-ea88-ce00d32d3866
 resourcetype: Document
 title: 'Session 1 Slides: Introduction and Program Objectives - RES.15-002 - Summer
   2016'

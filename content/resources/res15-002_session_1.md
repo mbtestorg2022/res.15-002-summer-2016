@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Image of the Session 1 slide deck title page.
+parent_uid: 6712229f-d71f-3221-ea88-ce00d32d3866
 resourcetype: Image
 title: Session 1 Title Slate
 uid: 080713cd-7130-a915-5930-ecc1ad2c12bc
